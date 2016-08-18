@@ -1,3 +1,3 @@
 # Java-Test
-# synchronized-test
+# synchronized
 测试synchronized的加锁特点
